@@ -8,7 +8,7 @@ int main()
 {
 	int size = 0, i = 0, search = 0;
 
-	printf("\nEnter size of array -> ");
+	printf("\nEnter Size Of Array -> ");
 	scanf("%d", &size);
 	
 	int arr[size];
